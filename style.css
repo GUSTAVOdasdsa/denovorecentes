@@ -1,0 +1,24 @@
+.recentes{
+    height: 720px;
+    width: 450px;
+    background-color: #0C356A;
+}
+.recentes img{
+    width: 50%;
+    position: relative;
+    left: 48%;
+    top: 2%;
+}
+.recentes h1{
+    width: 45%;
+    font-size: 112%;
+    position: relative;
+    bottom: 18%;
+    left: 3%;
+    color: white;
+}
+.recentes p{
+    position: relative;
+    bottom:18%;
+    color: whitesmoke;
+}
